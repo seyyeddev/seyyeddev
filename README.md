@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seyyeddev
-- 👀 I’m interested in learning Js 
-- 🌱 I’m currently learning Front-End
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning Javascript
 - 📫 You cand find me on instagram amir_h1224_
 
 <!---
